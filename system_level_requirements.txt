@@ -1,0 +1,43 @@
+What the ground needs from the plane in order to fly the plane
+	1.	Altitude
+		a.	Relative to ground
+		b.	Absolute
+	2.	Heading
+	3.	Airspeed
+		a.	Absolute
+		b.	Vertical speed
+	4.	Tilt
+		a.	Side to side
+		b.	Forward and backward
+	5.	GPS location
+	6.	Video feed
+	7.	Stall status
+		a.	Partial stall
+		b.	Full stall
+	8.	Landing gear up/down
+	9.	Control status
+		a.	Power level
+		b.	Battery life
+		c.	Temperature of units?
+		d.	Rudder feedback
+		e.	Aileron feedback
+		f.	Flap feedback
+		g.	Elevator feedback
+		h.	Health of various sensors
+		i.	Autopilot status
+	10.	
+	
+What the plane needs from the ground in order to do the thing
+	1.	Power setting
+	2.	Aileron position
+	3.	Rudder position
+	4.	Elevator position
+	5.	Flap position
+	6.	Landing gear up/down
+	7.	Autopilot engage / disengage
+	8.	
+	
+Other things?
+	1.	Signal strength to plane
+	2.	Emergency parachute?
+	3.	LOS procedure?
