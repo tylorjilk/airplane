@@ -1,3 +1,6 @@
+Here is an awesome instructables for great explanation step-by-step (of course we will upgrade...):
+	https://www.instructables.com/id/Complete-Guide-to-Building-Your-First-DIY-RC-Foamb/
+
 MOTOR
 	brushless -> need ESC for brushless then
 	outrunner -> won't need gearbox and is quiet
