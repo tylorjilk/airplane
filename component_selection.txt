@@ -11,13 +11,28 @@ MOTOR
 		outrunners normally have lower Kt
 	Probs want 150-200 Watts/lb
 
-Links
+Links to products:
 
--- Motor
-	https://hobbyking.com/en_us/propdrive-v2-5050-580kv-brushless-outrunner-motor.html
-
--- ESC
-	Make ourselves?
-
--- Propeller (15x8)
-	https://hobbyking.com/en_us/turnigy-type-d-light-wood-propeller-15x8-1pc.html
+Configuration 1:
+	Motor - 20.15 - https://hobbyking.com/en_us/propdrive-v2-2836-2200kv-brushless-outrunner-motor.html
+		has 3.5mm bullet connectors
+	ESC - 21.07 - https://hobbyking.com/en_us/hobby-king-60a-esc-4a-sbec.html
+		14 AWG to both motor and battery
+	Prop - 2.91 - https://hobbyking.com/en_us/hobbyking-8482-propeller-9x5-black-ccw-5pcs.html
+	Battery - 31.18 - https://hobbyking.com/en_us/zippy-flightmax-5000mah-4s1p-20c.html
+		has 4mm bullet connectors
+	Charger - 28.98 - https://hobbyking.com/en_us/imax-b6-50w-5a-charger-discharger-1-6-cells-genuine.html
+	Radio / Receiver - 58.29 - https://hobbyking.com/en_us/turnigy-tgy-i6-afhds-transmitter-and-6ch-receiver-mode-2.html
+	Servos (4) - 2.74 x 4 = 10.96 - https://hobbyking.com/en_us/turnigytm-tg9e-eco-micro-servo-1-5kg-0-10sec-9g.html
+	Servo extensions (2) - 1.88 x 2 = 3.76 - https://hobbyking.com/en_us/45cm-servo-lead-extention-futaba-with-hook-26awg-5pcs-bag.html
+	Servo y-lead (2) - 4.96 x 2 = 9.92 - https://hobbyking.com/en_us/futaba-y-servo-lead-30cm-length-5pcs-bag.html
+	Z-bend pliers - 9.04 - https://hobbyking.com/en_us/z-bend-pliers-heavy-duty-90-degree-up-to-1-16.html
+	
+	Wheels
+	Battery connectors
+	Motor connectors
+	Control horns
+	Heat shrink tubing
+	
+	Total cost: 197.26
+		Will want to see if we can find things on amazon for less
