@@ -23,6 +23,7 @@ Configuration 1:
 		has 4mm bullet connectors
 	Charger - 28.98 - https://hobbyking.com/en_us/imax-b6-50w-5a-charger-discharger-1-6-cells-genuine.html
 	Radio / Receiver - 58.29 - https://hobbyking.com/en_us/turnigy-tgy-i6-afhds-transmitter-and-6ch-receiver-mode-2.html
+		Another option: (52.49) https://www.amazon.com/FlySky-Channel-Digital-Transmitter-Receiver/dp/B00KHJ262Y/ref=sr_1_6?crid=POMEP4L5TVKS&keywords=6+channel+radio+and+receiver&qid=1553108246&s=gateway&sprefix=6+channel+radio%2Caps%2C185&sr=8-6
 	Servos (4) - 2.74 x 4 = 10.96 - https://hobbyking.com/en_us/turnigytm-tg9e-eco-micro-servo-1-5kg-0-10sec-9g.html
 	Servo extensions (2) - 1.88 x 2 = 3.76 - https://hobbyking.com/en_us/45cm-servo-lead-extention-futaba-with-hook-26awg-5pcs-bag.html
 	Servo y-lead (2) - 4.96 x 2 = 9.92 - https://hobbyking.com/en_us/futaba-y-servo-lead-30cm-length-5pcs-bag.html
