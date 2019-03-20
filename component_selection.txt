@@ -7,3 +7,10 @@ MOTOR
 	Kt = torque constant = 1355/Kv
 		outrunners normally have lower Kt
 	Probs want 150-200 Watts/lb
+
+# Links
+## Motor
+	https://hobbyking.com/en_us/propdrive-v2-5050-580kv-brushless-outrunner-motor.html
+
+## ESC
+	Make ourselves?
