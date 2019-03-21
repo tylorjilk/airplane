@@ -14,23 +14,23 @@ MOTOR
 Links to products:
 
 Configuration 1:
-	Motor - 20.15 - https://hobbyking.com/en_us/propdrive-v2-2836-2200kv-brushless-outrunner-motor.html
+	* Motor - 20.15 - https://hobbyking.com/en_us/propdrive-v2-2836-2200kv-brushless-outrunner-motor.html
 		has 3.5mm bullet connectors
-	ESC - 21.07 - https://hobbyking.com/en_us/hobby-king-60a-esc-4a-sbec.html
+	* ESC - 21.07 - https://hobbyking.com/en_us/hobby-king-60a-esc-4a-sbec.html
 		14 AWG to both motor and battery
-	Prop - 2.91 - https://hobbyking.com/en_us/hobbyking-8482-propeller-9x5-black-ccw-5pcs.html
-	Battery - 31.18 - https://hobbyking.com/en_us/zippy-flightmax-5000mah-4s1p-20c.html
+	* Prop - 2.91 - https://hobbyking.com/en_us/hobbyking-8482-propeller-9x5-black-ccw-5pcs.html
+	* Battery - 31.18 - https://hobbyking.com/en_us/zippy-flightmax-5000mah-4s1p-20c.html
 		has 4mm bullet connectors
-	Charger - 28.98 - https://hobbyking.com/en_us/imax-b6-50w-5a-charger-discharger-1-6-cells-genuine.html
-	Radio / Receiver - 58.29 - https://hobbyking.com/en_us/turnigy-tgy-i6-afhds-transmitter-and-6ch-receiver-mode-2.html
-	Servos (4) - 2.74 x 4 = 10.96 - https://hobbyking.com/en_us/turnigytm-tg9e-eco-micro-servo-1-5kg-0-10sec-9g.html
-	Servo extensions (2) - 1.88 x 2 = 3.76 - https://hobbyking.com/en_us/45cm-servo-lead-extention-futaba-with-hook-26awg-5pcs-bag.html
-	Servo y-lead (2) - 4.96 x 2 = 9.92 - https://hobbyking.com/en_us/futaba-y-servo-lead-30cm-length-5pcs-bag.html
-	Z-bend pliers - 9.04 - https://hobbyking.com/en_us/z-bend-pliers-heavy-duty-90-degree-up-to-1-16.html
+	* Charger - 28.98 - https://hobbyking.com/en_us/imax-b6-50w-5a-charger-discharger-1-6-cells-genuine.html
+	* Radio / Receiver - 58.29 - https://hobbyking.com/en_us/turnigy-tgy-i6-afhds-transmitter-and-6ch-receiver-mode-2.html
+	* Servos (6) - 2.74 x 6 = 16.44 - https://hobbyking.com/en_us/turnigytm-tg9e-eco-micro-servo-1-5kg-0-10sec-9g.html
+	* Servo extensions - 5.42 - https://hobbyking.com/en_us/45cm-servo-lead-extension-jr-26awg-10pcs-set.html
+	* Servo y-lead (2) - 4.96 x 2 = 9.92 - https://hobbyking.com/en_us/futaba-y-servo-lead-30cm-length-5pcs-bag.html
+	* Z-bend pliers - 9.04 - https://hobbyking.com/en_us/z-bend-pliers-heavy-duty-90-degree-up-to-1-16.html
 	
-	Wheels - 2.21 x 3 = 6.63 - https://hobbyking.com/en_us/light-foam-wheel-diam-100-width-30mm.html
-	Battery connectors - 5.09 - https://hobbyking.com/en_us/hxt-4mm-gold-connector-w-protector-10pcs-set.html
-	Motor connectors - 3.42 - https://hobbyking.com/en_us/hxt-3-5mm-gold-connector-w-protector-10pcs-set.html
-	Control horns - 1.09 - https://hobbyking.com/en_us/control-horns-13-5x16mm-10pcs.html
+	changed ## Wheels - 2.21 x 3 = 6.63 - https://hobbyking.com/en_us/light-foam-wheel-diam-100-width-30mm.html
+	* Battery connectors - 5.09 - https://hobbyking.com/en_us/hxt-4mm-gold-connector-w-protector-10pcs-set.html
+	* Motor connectors - 3.42 - https://hobbyking.com/en_us/hxt-3-5mm-gold-connector-w-protector-10pcs-set.html
+	* Control horns - 1.32 - https://hobbyking.com/en_us/control-horns-16x20mm-10pcs.html
 	
-	Total cost: 213.49
+	Total cost: 218.97
